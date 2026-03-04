@@ -43,8 +43,8 @@ for mturl in mturls:
     for over in overview:
         overviewtext += over.text
 
-    tempdict["overview"] = overviewtext
-    print(tempdict)
+    tempdir["overview"] = overviewtext
+    print(tempdir)
 
     mtoutput.append(tempdir)
 
