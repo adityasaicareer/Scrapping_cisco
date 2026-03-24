@@ -51,3 +51,11 @@ for mturl in mturls:
     subdriver.quit()
 
 print(mtoutput)
+import json
+
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'r') as f:
+    data=json.load(f)
+
+data.append(mtoutput)
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'w') as f:
+    json.dump(data,f,indent=4)

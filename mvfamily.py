@@ -53,3 +53,14 @@ for mv in list:
 
 
 print(mvoutput)
+
+
+
+import json
+
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'r') as f:
+    data=json.load(f)
+
+data.append(mvoutput)
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'w') as f:
+    json.dump(data,f,indent=4)

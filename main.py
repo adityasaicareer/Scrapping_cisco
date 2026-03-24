@@ -69,6 +69,7 @@ driver.get(mrcw)
 WebDriverWait(driver, 3)
 
 elements = driver.find_elements(By.CSS_SELECTOR, ".mt-listing-no-break")
+print(f"elements {len(elements)}")
 cwelements = elements[0]
 mrfamily = elements[2]
 cwelements = cwelements.find_elements(By.CSS_SELECTOR, ".mt-listings-simple li")
@@ -155,9 +156,14 @@ for mr in mrurls:
     tempdir = {}
     subdriver.get(mr)
     WebDriverWait(subdriver, 5)
-    title = subdriver.find_element(By.ID, "title").text
-    title = title.split(" ")
-    title = title[0]
+    try:
+        title = subdriver.find_element(By.ID, "title").text
+        title = title.split(" ")
+        title = title[0]
+    except:
+        title = ""
+
+
     print(title)
     tempdir["family"] = "MR"
     tempdir["title"] = title
@@ -197,3 +203,11 @@ for mr in mrurls:
 
 
 driver.quit()
+import json
+
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'r') as f:
+    data=json.load(f)
+
+data.append(output)
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'w') as f:
+    json.dump(data,f,indent=4)

@@ -47,3 +47,12 @@ for mx in mxlist:
 
     tempdir["overview"] = overviewtext
     print(tempdir)
+
+import json
+
+with open("outupt.json",'r') as f:
+    data=json.load(f)
+data.append(tempdir)
+with open("output.json",'w') as f:
+    json.dump(data,f,indent=4)
+    

@@ -22,7 +22,7 @@ catfamily = listing[0]
 
 catlist = catfamily.find_elements(By.CSS_SELECTOR, "ul li")
 print(len(catlist))
-mxoutput = []
+cat = []
 for c in catlist:
     anchor = c.find_element(By.TAG_NAME, "a")
     link = anchor.get_attribute("href")
@@ -47,3 +47,12 @@ for c in catlist:
 
     tempdir["overview"] = overviewtext
     print(tempdir)
+    cat.append(tempdir)
+import json
+
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'r') as f:
+    data=json.load(f)
+
+data.append(cat)
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'w') as f:
+    json.dump(data,f,indent=4)

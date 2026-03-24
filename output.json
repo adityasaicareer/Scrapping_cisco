@@ -1,0 +1,1149 @@
+[
+    [
+        {
+            "link": "https://documentation.meraki.com/IoT/MV_-_Smart_Cameras/Product_Information/MV_Overviews_and_Datasheets/MV13_Datasheet",
+            "family": "MV",
+            "title": "MV13",
+            "overview": "The Meraki MV13 offers 8MP image quality and combines physical security and advanced analytics in a powerful yet compact fixed-lens mini dome form factor. With an edge architecture that minimizes physical infrastructure and software requirements, MV13 enables faster, easier deployments and greater scalability.",
+            "features": [
+                "Fixed lens mini-dome camera with 8MP Image Sensor",
+                "Compact form factor with 101.3\u00b0 horizontal FoV",
+                "More detailed information with up to 4K resolution",
+                "Low bandwidth Consumption for recording and streaming using Smartcodec encoding",
+                "Guaranteed days of video with Smart Retention",
+                "Night vision with IR illumination up to 15m (49 ft)",
+                "Intelligent motion indexing with search engine",
+                "Built-in search tools like motion search, motion recap, motion heatmaps and Attribute Search.",
+                "Built-in analytics like Line Crossing, Area Occupancy, MV sense and Custom Computer-Vision capabilities",
+                "Machine-learning capability for intelligent object detection",
+                "Secure video access to ensure privacy with role-based user accounts",
+                "Cloud-augmented edge storage for minimal physical infrastructure",
+                "Built-in automatic security with secure boot and signed firmware, backed by a hardware security chip",
+                "Suitable for deployments of all sizes, from 1-10,000+ cameras",
+                "NDAA Compliant"
+            ]
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MV_-_Smart_Cameras/Product_Information/MV_Overviews_and_Datasheets/MV23_Series_Datasheet",
+            "family": "MV",
+            "title": "MV23",
+            "overview": "The Meraki MV23 is a third-generation smart camera. It combines physical security and advanced analytics in a compact varifocal dome design. With an edge architecture that minimizes physical infrastructure and software requirements, the MV23 enables faster, easier deployments and greater scalability.",
+            "features": [
+                "Varifocal lens dome camera",
+                "Robust form factor with 36\u00b0-112\u00b0 horizontal FoV",
+                "More detailed information with up to 4K resolution",
+                "Guaranteed days of video with Smart Retention",
+                "Night vision with IR illumination up to 30 m (98 ft)",
+                "Intelligent motion indexing with search engine",
+                "Built-in analytics like motion search, motion recap, and motion heatmaps.",
+                "Support for Attribute Search",
+                "Machine-learning capability for intelligent object detection",
+                "Secure video access to ensure privacy with role-based user accounts",
+                "Cloud-augmented edge storage for minimal physical infrastructure",
+                "Built-in automatic security with secure boot and signed firmware, backed by a hardware security chip",
+                "Suitable for deployments of all sizes, from 1-10,000+ cameras",
+                "NDAA Compliant"
+            ]
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MV_-_Smart_Cameras/Product_Information/MV_Overviews_and_Datasheets/MV33_Datasheet",
+            "family": "MV",
+            "title": "MV33",
+            "overview": "The Meraki MV33 delivers 12.4 MP image quality and combines physical security features with advanced analytics. This compact mini fisheye camera is easy to install and has a fixed lens with a 360\u00b0 field of view. MV33 offers full visibility and smart security for many indoor applications.",
+            "features": [
+                "360\u00b0 fisheye lens camera with 12.4MP Image Sensor",
+                "Compact form factor with 180\u00b0 horizontal and vertical FoV",
+                "A large level of detail with up to 2880x2880 video resolution",
+                "Low bandwidth Consumption for recording and streaming using Smartcodec encoding",
+                "Guaranteed days of video with Smart Retention",
+                "Intelligent motion indexing with search engine",
+                "Built-in search tools like motion search, motion recap, motion heatmaps and Event Search.",
+                "Built-in analytics like Line Crossing, Area Occupancy, MV sense and Custom Computer-Vision capabilities",
+                "Digital Pan-Tilt-Zoom (DPTZ) mode for live & historical video",
+                "Machine learning capability for intelligent object detection",
+                "Role-based user accounts provide secure video access and ensure privacy",
+                "Cloud-augmented edge storage for minimal physical infrastructure",
+                "Built-in automatic security with secure boot and signed firmware, backed by a hardware security chip",
+                "Suitable for deployments of all sizes, 1-10,000+ cameras",
+                "NDAA Compliant"
+            ]
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MV_-_Smart_Cameras/Product_Information/MV_Overviews_and_Datasheets/MV53X_Datasheet",
+            "family": "MV",
+            "title": "MV53X",
+            "overview": "MV53X is a new member of the third-generation MV smart camera family. It is an outdoor bullet camera that combines advanced analytics and 12-37\u00b0 varifocal FoV. This camera provides long distance monitoring and security for a variety of deployments including parking lots, warehouses, security checkpoints and more.",
+            "features": [
+                "Varifocal lens bullet camera with 1/1.8\" 8.41MP Image Sensor",
+                "Bullet form factor with 12-37\u00b0 horizontal FoV",
+                "More detailed information with up to 4K resolution",
+                "Low bandwidth Consumption for recording and streaming using Smartcodec encoding",
+                "Guaranteed days of video with Smart Retention",
+                "Night vision with IR illumination up to 50m (164 ft)",
+                "Intelligent motion indexing with search engine",
+                "Built-in search tools like motion search, motion recap, motion heatmaps and Attribute Search.",
+                "Built-in analytics like Line Crossing, Area Occupancy, MV sense and Custom Computer-Vision capabilities",
+                "Machine-learning capability for intelligent object detection",
+                "Secure video access to ensure privacy with role-based user accounts",
+                "Cloud-augmented edge storage for minimal physical infrastructure",
+                "Built-in automatic security with secure boot and signed firmware, backed by a hardware security chip",
+                "Suitable for deployments of all sizes, from 1-10,000+ cameras",
+                "NDAA Compliant"
+            ]
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MV_-_Smart_Cameras/Product_Information/MV_Overviews_and_Datasheets/MV63_Series_Datasheet",
+            "family": "MV",
+            "title": "MV63",
+            "overview": "The Meraki MV63 series offers 8MP image quality and combines physical security and advanced analytics in a powerful yet compact fixed-lens mini dome form factor. With an edge architecture that minimizes physical infrastructure and software requirements, MV63 series enables faster, easier deployments and greater scalability.",
+            "features": [
+                "Fixed lens mini-dome camera with 8MP Image Sensor",
+                "Compact form factor with 101.3\u00b0 horizontal FoV",
+                "More detailed information with up to 4K resolution",
+                "Low bandwidth Consumption for recording and streaming using Smartcodec encoding",
+                "Guaranteed days of video with Smart Retention",
+                "Night vision with IR illumination up to 20 m (66 ft)",
+                "IK10+ and IP67 for deployment in outdoor and demanding environments",
+                "Intelligent motion indexing with search engine",
+                "Built-in search tools like motion search, motion recap, motion heatmaps and Attribute Search.",
+                "Built-in analytics like Line Crossing, Area Occupancy, MV sense and Custom Computer-Vision capabilities",
+                "Machine-learning capability for intelligent object detection",
+                "Secure video access to ensure privacy with role-based user accounts",
+                "Cloud-augmented edge storage for minimal physical infrastructure",
+                "Built-in automatic security with secure boot and signed firmware, backed by a hardware security chip",
+                "Suitable for deployments of all sizes, from 1-10,000+ cameras",
+                "NDAA Compliant",
+                "EN 50155 Railway Compliance"
+            ]
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MV_-_Smart_Cameras/Product_Information/MV_Overviews_and_Datasheets/MV73_Series_Datasheet",
+            "family": "MV",
+            "title": "MV73",
+            "overview": "The Meraki MV73 is a third-generation smart camera, combines physical security and advanced analytics in a powerful varifocal lens dome form factor. With an edge architecture that minimizes physical infrastructure and software requirements, MV73 enables faster, easier deployments and greater scalability.",
+            "features": [
+                "Varifocal lens dome camera",
+                "Robust form factor with 36\u00b0-112\u00b0 horizontal FoV",
+                "More detailed information with up to 4K resolution",
+                "Guaranteed days of video with Smart Retention",
+                "Night vision with IR illumination up to 30 m (98 ft)",
+                "Intelligent motion indexing with search engine",
+                "Built-in analytics like motion search, motion recap, and motion heatmaps.",
+                "IK10+ and IP67 for deployment in outdoor and demanding environments",
+                "Support for Attribute Search",
+                "Machine-learning capability for intelligent object detection",
+                "Secure video access to ensure privacy with role-based user accounts",
+                "Cloud-augmented edge storage for minimal physical infrastructure",
+                "Built-in automatic security with secure boot and signed firmware, backed by a hardware security chip",
+                "Suitable for deployments of all sizes, from 1-10,000+ cameras",
+                "NDAA Compliant"
+            ]
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MV_-_Smart_Cameras/Product_Information/MV_Overviews_and_Datasheets/MV84X_Datasheet",
+            "family": "MV",
+            "title": "MV84X",
+            "overview": "The MV84X multi-sensor camera revolutionizes surveillance by delivering unmatched coverage for large areas. By combining four cameras into a single sleek design, the MV84X offers unmatched coverage. Designed for dynamic environments like warehouses, airports, and manufacturing floors, this powerful camera ensures zero blind spots with its four cameras, with combined 20MP resolution and 360-degree analytics. The MV84X empowers businesses with instant insights, AI-powered object detection, providing a seamless blend of powerful technology and simplicity for the ultimate security solution. Perfectly built for today's fast-paced, demanding spaces, this is more than just a camera: it\u2019s a next-gen security experience.",
+            "features": []
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MV_-_Smart_Cameras/Product_Information/MV_Overviews_and_Datasheets/MV93_Series_Datasheet",
+            "family": "MV",
+            "title": "MV93",
+            "overview": "The Meraki MV93 is a third-generation MV smart camera that combines physical security and advanced analytics in a fisheye design. It is easy to install and offers a 360\u00b0 field of view (FoV). The MV93 delivers full visibility and smart security for various outdoor applications.",
+            "features": [
+                "360\u00b0 fisheye lens camera",
+                "Compact form factor with 180\u00b0 horizontal and vertical FoV",
+                "Large level of detail with up to 2880x2880 video resolution",
+                "Guaranteed days of video with Smart Retention",
+                "Night vision with IR illumination up to 20 m / 66 ft",
+                "IK10+ and IP67 rated for deployment in more demanding environments",
+                "Intelligent motion indexing with search engine",
+                "Built-in analytics like Motion Search, Motion Recap, and Motion Heatmaps",
+                "Digital Pan-Tilt-Zoom (DPTZ) mode for live & historical video",
+                "Machine learning capability for intelligent object detection",
+                "Role-based user accounts provide secure video access and ensure privacy",
+                "Cloud-augmented edge storage for minimal physical infrastructure",
+                "Built-in automatic security with secure boot and signed firmware, backed by a hardware security chip",
+                "Suitable for deployments of all sizes, 1-10,000+ cameras",
+                "NDAA Compliant",
+                "EN 50155 Railway Compliance"
+            ]
+        }
+    ],
+    [
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT10_Datasheet_-_Temperature_and_Humidity",
+            "family": "MT",
+            "title": "MT10",
+            "overview": "Businesses need a complete view of data to make sound decisions. Businesses need to have visibility into their network availability metrics, capex & opex, and customer satisfaction levels to deliver on their mission. While businesses have a good grip on embracing and utilizing data in the business world, they are yet to fully visualize the physical world.  Current solutions are complicated to install, do not scale and are difficult to use. Hence businesses do not have a simple and reliable way to have visibility into their critical assets to maximize their network uptimes, reduce equipment failure, reduce unnecessary site visits,  and deliver best-in-class customer service. So, Meraki is introducing a range of sensors to prevent loss and increase operational efficiency with ease. Our sensors are simple, scalable and secure. Our sensors also connect to the dashboard using the MV/MR which removes the need for expensive gateways. Customers can now gain real-time visibility into their critical business environment form a  single pane of glass. The Cisco Meraki MT10 sensors provide temperature and humidity monitoring for network closets across industries using BLE (Bluetooth Low Energy) beacons on the MR and MV.The sensor includes can monitor temperature -0\u00b0C - 55\u00b0C / 32F - 131F (limited by operating temperature) ranges and humidity in the 0 - 95 % RH.Our sensors are built from the ground up to be easy to manage without compromising on power and flexibility.All Meraki sensors are managed through an elegant, intuitive cloud-based interface.Meraki\u2019s centralized management gives administrators granular visibility into their network.Cloud management has a number of benefits that make it easier to build networks large and small.Automatic alerts based on customizable thresholds through SMS, Email and Mobile push notifications.Enterprise-grade security which the Cisco Trustworthy Systems seal of approval.Role-based administration.Firmware upgrades and enhancements from the Meraki cloud.Zero-touch provisioning for rapid deployment across sites."
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT11_Datasheet_-_Probe_Sensor",
+            "family": "MT",
+            "title": "MT11",
+            "overview": "Refrigeration is a critical process to prevent spoilage and ensure compliance along the entire cold chain. Issues with refrigeration equipment can lead to wasted inventory, spread of food-borne illness, and costly downtime.IoT sensors provide insight into environmental conditions where visibility is traditionally lacking. The Cisco Meraki MT11, part of the Meraki MT sensor portfolio, provides real-time temperature data of refrigeration assets to protect business-critical equipment and sensitive inventory."
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT12_Datasheet_-_Water_Detection",
+            "family": "MT",
+            "title": "MT12",
+            "overview": "Businesses need a complete view of data to make sound decisions. Businesses need to have visibility into their network availability metrics, capex & opex, and customer satisfaction levels to deliver on their mission. While businesses have a good grip on embracing and utilizing data in the business world, they are yet to fully visualize the physical world.  Current solutions are complicated to install, do not scale and are difficult to use. Hence businesses do not have a simple and reliable way to have visibility into their critical assets to maximize their network uptimes, reduce equipment failure, reduce unnecessary site visits,  and deliver best-in-class customer service. So, Meraki is introducing a range of sensors to prevent loss and increase operational efficiency with ease. Our sensors are simple, scalable and secure. Our sensors also connect to the dashboard using the MV/MR which removes the need for expensive gateways. Customers can now gain real-time visibility into their critical business environment form a  single pane of glass.The Cisco Meraki MT12 sensors provide water presence monitoring for network closets across industries using BLE (Bluetooth Low Energy) beacons on the MR and MV.The sensor can detect the presence of at least 3 mL of water  Our sensors are built from the ground up to be easy to manage without compromising on power and flexibilityAll Meraki sensors are managed through an elegant, intuitive cloud-based interfaceMeraki\u2019s centralized management gives administrators granular visibility into their networkCloud management has a number of benefits that make it easier to build networks large and small: Automatic alerts based on customizable thresholds through SMS, Email and Mobile push notificationsEnterprise-grade security which the Cisco Trustworthy Systems seal of approval Role-based administration Firmware upgrades and enhancements from the Meraki cloud Zero-touch provisioning for rapid deployment across sites "
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT14_Datasheet_-_Indoor_Air_Quality_Monitor",
+            "family": "MT",
+            "title": "MT14",
+            "overview": "Meraki MT sensors accelerate deployment, simplify management, and provide data-driven business outcomes. Flexible mounting, battery or wired power options, and automatic Bluetooth\u00ae pairing make it easy to provision thousands of sensors in a short amount of time. Centralized cloud management enables MT sensors to be managed alongside other networked devices, while open APIs allow MT to integrate with any business system.  Smart spaces start hereIdentify anomalies and trends with visualizations and minute-by-minute data reportingCreate a smarter, more sustainable future with Meraki Psychrometric Charts Never miss an eventStay in the know with real-time alerts via email, SMS, push notification, or webhook Gain complete visibility by associating sensor events with MV camera footageMonitor and troubleshoot on-the-go with the Meraki mobile app Cloud-first architectureCloud-based management eliminates the need for on-premises serversVisibility alongside other Meraki products on the dashboard empowers lean teams Simple and secure connectivityAccelerate deployment with automatic, wireless connectivity to MR/MV gatewaysSecure device authentication and encryption with the Cisco Trust Anchor module Analytics tailored to your businessBuild applications custom for your business through the vast partner ecosystemAnalyze data your way with .csv, .xls, API, or MQTT export options"
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT15_Datasheet_-_Indoor_Air_Quality_w%2F%2FCO2",
+            "family": "MT",
+            "title": "MT15",
+            "overview": "Visual LED Indicator RingSingle pane of glass for sensor monitoring combined with your existing Meraki dashboardAlways-on, real-time visibility (24/7/365 visibility)Flexible alerts via email, SMS, mobile push notifications and webhooksSimple to set up reporting and configurationData mining APIs for custom development and integrations.Multiple installation optionsProvision multiple sensors in minutes"
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT20_Datasheet_-_Open%2F%2FClose_Detection",
+            "family": "MT",
+            "title": "MT20",
+            "overview": "Businesses need a complete view of data to make sound decisions. Businesses need to have visibility into their network availability metrics, capex & opex, and customer satisfaction levels to deliver on their mission. While businesses have a good grip on embracing and utilizing data in the business world, they are yet to fully visualize the physical world.  Current solutions are complicated to install, do not scale and are difficult to use. Hence businesses do not have a simple and reliable way to have visibility into their critical assets to maximize their network uptimes, reduce equipment failure, reduce unnecessary site visits,  and deliver best-in-class customer service. So, Meraki is introducing a range of sensors to prevent loss and increase operational efficiency with ease. Our sensors are simple, scalable and secure. Our sensors also connect to the dashboard using the MV/MR which removes the need for expensive gateways. Customers can now gain real-time visibility into their critical business environment form a  single pane of glass.The Cisco Meraki MT20 sensor provides the capability to detect if a door is open or closed for network closets across industries using BLE (Bluetooth Low Energy) beacons on the MR and MV.The sensor uses a Hall Effect sensor to detect the magnetic field and determine if a Door is open or closed.Our sensors are built from the ground up to be easy to manage without compromising on power and flexibilityAll Meraki sensors are managed through an elegant, intuitive cloud-based interfaceMeraki\u2019s centralized management gives administrators granular visibility into their networkCloud management has a number of benefits that make it easier to build networks large and small: Automatic alerts based on customizable thresholds through SMS, Email and Mobile push notificationsEnterprise-grade security which the Cisco Trustworthy Systems seal of approval Role-based administration Firmware upgrades and enhancements from the Meraki cloud Zero-touch provisioning for rapid deployment across sites"
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT30_Datasheet_-_Smart_Automation_Button",
+            "family": "MT",
+            "title": "MT30",
+            "overview": "Meraki MT accelerates deployment, simplifies management, and provides data-driven business outcomes. Wire-free installation, flexible mounting options, and automatic pairing make it easy to provision thousands of sensors in a short amount of time. Centralized cloud management and open APIs enable MT sensors to be managed alongside other networked devices or integrated with any business system.  "
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT40_Datasheet_-_Smart_Power_Controller",
+            "family": "MT",
+            "title": "MT40",
+            "overview": "Meraki MT sensors accelerate deployment, simplify management, and provide data-driven business outcomes. Wire-free installation, flexible mounting options, and automatic pairing make it easy to provision thousands of sensors in a short amount of time. Centralized cloud management and open APIs enable MT sensors to be managed alongside other networked devices or integrated with any business system. "
+        },
+        {
+            "link": "https://documentation.meraki.com/IoT/MT_-_Sensors/Product_Information/MT_Overviews_and_Datasheets/MT40_Smart_Power_Controller_FAQ",
+            "family": "MT",
+            "title": "MT40",
+            "overview": "MT40 is a BLE-connected, in-line AC-wall powered smart power controller. It allows customers to monitor power metrics, and remotely turn on or off power to the device it is monitoring."
+        }
+    ],
+    [
+        {
+            "family": "C",
+            "link": "https://documentation.meraki.com/Switching/Cloud_Management_with_IOS_XE/Product_Information/Overviews_and_Datasheets/Catalyst_9200L-M_Datasheet",
+            "title": "Catalyst",
+            "overview": "The Catalyst 9200L-M meets the demands of enterprise applications by combining the simplicity of the Meraki dashboard with powerful switching hardware. It supports high-bandwidth applications and high-speed Wi-Fi access points with multigigabit ports and 80GB stacking. It offers either four fixed 1G/10G or two fixed 25G uplinks. The switch delivers resiliency through fast stack convergence. It uses Adaptive Policy with an over-the-wire tag to segment traffic into security groups, providing scalable security. Integrated with the Meraki dashboard, the Catalyst 9200L-M offers a simple yet powerful solution for demanding wired access applications."
+        },
+        {
+            "family": "C",
+            "link": "https://documentation.meraki.com/Switching/Cloud_Management_with_IOS_XE/Product_Information/Overviews_and_Datasheets/Catalyst_9300-M_Datasheet",
+            "title": "Catalyst",
+            "overview": "The Catalyst 9300-M addresses the most demanding enterprise applications by combining the simplicity of the Meraki dashboard with powerful switching hardware. To satisfy high-bandwidth applications and the deployment of high-speed wifi access points, the Catalyst 9300-M provides multigigabit ports, 480G stacking, and modular 10/25/40G uplinks. The Catalyst 9300-M delivers resiliency with fast stack convergence and StackPower. The Catalyst 9300-M provides Adaptive Policy using an over-the-wire tag which segments traffic into security groups to deliver scalable security. The Catalyst 9300-M is integrated under the Meraki dashboard to provide a simply powerful solution to the most demanding wired access applications. Adaptive Policy provides simple & scalable security policies to segment traffic using Security Groups. Security Groups are created in the dashboard using natural language such as \u201cIOT device\u201d & \u201cGuest.\u201d The security policy intent (e.g., Permit or Deny) is then simply provisioned between Security Groups which results in the segmentation of each group\u2019s traffic. By making security policy management intuitive and scalable relative to legacy IP-address based Access Control Lists, Adaptive Policy empowers operators to confidently secure their network traffic independent of future network changes. By pooling & distributing power across C9300-Ms using a series of StackPower cables, StackPower provides simple and resilient power distribution across the stack.   C9300-24UX-M"
+        },
+        {
+            "family": "C",
+            "link": "https://documentation.meraki.com/Switching/Cloud_Management_with_IOS_XE/Product_Information/Overviews_and_Datasheets/Catalyst_9300L-M_Datasheet",
+            "title": "Catalyst",
+            "overview": "The Catalyst 9300L-M integrates Meraki dashboard management with high-performance switching hardware for enterprise applications. To satisfy high-bandwidth applications and the deployment of high-speed wifi access points, the Catalyst 9300L-M provides multigigabit ports, 320GB stacking with four fixed 10G uplinks. The Catalyst 9300L-M provides resiliency through fast stack convergence. The Catalyst 9300L-M provides Adaptive Policy using an over-the-wire tag which segments traffic into security groups to deliver scalable security. The Catalyst 9300L-M integrates with the Meraki dashboard for streamlined management of wired access applications.Adaptive Policy provides simple & scalable security policies to segment traffic using Security Groups. Adaptive Policy segments traffic using Security Groups for security policy management. Security Groups are created in the dashboard using descriptive terms like 'IoT device' and 'Guest.' Security policy intent (e.g., Permit or Deny) is provisioned between Security Groups, segmenting each group\u2019s traffic. This method of security policy management offers an alternative to legacy IP-address based Access Control Lists, allowing operators to manage network traffic security independent of future network changes.    C9300L-24T-4X-M"
+        },
+        {
+            "family": "C",
+            "link": "https://documentation.meraki.com/Switching/Cloud_Management_with_IOS_XE/Product_Information/Overviews_and_Datasheets/Catalyst_9300X-M_Datasheet",
+            "title": "Catalyst",
+            "overview": "The Catalyst 9300X-M addresses the most demanding enterprise applications by combining the simplicity of the Meraki dashboard with powerful switching hardware. To satisfy high-bandwidth applications and the deployment of high-speed wifi access points, the Catalyst 9300X-M provides multigigabit ports, 1TB stacking, and modular 10/25 or 40/100G uplinks. The Catalyst 9300X-M delivers resiliency with fast stack convergence and StackPower. The Catalyst 9300X-M provides Adaptive Policy using an over-the-wire tag which segments traffic into security groups to deliver scalable security. The Catalyst 9300X-M is integrated under the Meraki dashboard to provide a simply powerful solution to the most demanding wired access applications. Adaptive Policy provides simple & scalable security policies to segment traffic using Security Groups. Security Groups are created in the dashboard using natural language such as \u201cIOT device\u201d & \u201cGuest.\u201d The security policy intent (e.g., Permit or Deny) is then simply provisioned between Security Groups which results in the segmentation of each group\u2019s traffic. By making security policy management intuitive and scalable relative to legacy IP-address based Access Control Lists, Adaptive Policy empowers operators to confidently secure their network traffic independent of future network changes. By pooling & distributing power across C9300X-Ms using a series of StackPower cables, StackPower provides simple and resilient power distribution across the stack.   C9300X-24Y-M"
+        },
+        {
+            "family": "C",
+            "link": "https://documentation.meraki.com/Switching/Cloud_Management_with_IOS_XE/Product_Information/Overviews_and_Datasheets/Cloud_Management_with_IOS_XE_Overview/Cloud_Configuration%3A_Release_Versions_and_Highlights",
+            "title": "Cloud",
+            "overview": "C9500H: high-performance switch with 100G Uplink Firmware Upgrade Advisory for C9300L (-M) series: Due to a known issue, C9300L (-M) series switches that experience problems upgrading from a CS version to IOS XE 17.15.4 may encounter an issue rolling back to the original software image, and then fail to properly boot. To avoid running into this issue, please DO NOT make any configuration changes that could impact switch connectivity to the dashboard to the dashboard until the upgrade is complete and successful. \n\nFirmware Upgrade Advisory for C9300L: Due to a known issue, 9300L switches will not upgrade when a network upgrades to IOS XE 17.15.4. If your network is scheduled for an upgrade from a CS firmware version to IOS XE 17.15.4 version, all other devices will upgrade as planned and C9300L models will remain on the current CS firmware version.  This measure is in place to prevent an issue where 9300L may experience a problem upgrading to 17.15.4, attempt to roll back to the original software image, and then fail to properly boot. Once this issue has been patched, the switches will upgraded normally.C9300X-NM-2C (-M) 1**C9300X-NM-8Y (-M) 1 CS16+ and IOS XE 17.15 For existing C9300 network module support with 17.15 or prior firmware, please refer to the Uplink Modules table here.   C9300-NM-2Q (-M)C9300-NM-8X (-M) C9300-NM-2Y (-M)2 C9300-NM-4GC9300-NM-4M C9200-NM-2YC9200-NM-2Q "
+        },
+        {
+            "family": "C",
+            "link": "https://documentation.meraki.com/Switching/Cloud_Management_with_IOS_XE/Product_Information/Overviews_and_Datasheets/Cloud_Managed_Catalyst_Switches_FAQs",
+            "title": "Cloud",
+            "overview": ""
+        },
+        {
+            "family": "C",
+            "link": "https://documentation.meraki.com/Switching/Cloud_Management_with_IOS_XE/Product_Information/Overviews_and_Datasheets/Cloud_Management_with_IOS_XE_Overview",
+            "title": "Cloud",
+            "overview": "NEW! Experience the power of IOS XE 17.18.2 (release candidate) for Cloud Management with cloud configuration. (firmware upgrades -> 'other available versions' tab).  For cloud-managed Catalyst switches running CS firmware upgrading to Cloud Management with IOS XE 17.1x.x version: Note that after upgrading to any Cloud Management with IOS XE release, downgrading to CS firmware is restricted. Factory reset may be required, and support assistance will be necessary. Learn moreCloud Management with IOS XE unlocks the powerful capabilities of IOS XE, enabling organizations to simplify operations, enhance efficiency, and improve network performance from access to core networking. This drastically simpler architecture unlocks many benefits for your cloud-managed Cisco Catalyst switches, including the 9300-M, 9300X-M, 9300L-M and MS390 families. Since the introduction of Cloud Management with IOS XE 17.15, users enjoy faster boot and initialization, a Cloud CLI Terminal for running troubleshooting commands directly from the dashboard, and a new generation of features powered by advanced IOS-XE capabilities! In IOS XE 17.18.1 we introduced support for features like BGP, VRF, In-Service Software Upgrades, and expanded support for the entire Catalyst 9200,9300, and C9500H families. Now with IOS XE 17.18.2, we are introducing brand new cloud EVPN fabric capabilities, Virtual Router Redundancy Protocol (VRRP) support, and more advanced management capabilities such as SmartPort Automation (early access).  Introducing a new onboarding flow including both cloud and device configuration: two powerful ways to manage your Catalyst 9000 switches from the Meraki dashboard. These options give you the flexibility to choose Cloud Management with cloud configuration in Meraki dashboard or device configuration (previously referred to as cloud monitoring) that offers configuration via an embedded cloud CLI while leveraging the cloud for monitoring and troubleshooting. Learn more. Management Interface Architecture Change: a dedicated management interface is no longer required. Default Network Module: this enhancement simplifies and consolidates network module configuration into 8 default ports that get applied dynamically to any inserted network module. (Watch this video to learn more about this change or see the Cloud Operating Mode for Catalyst Cloud-Managed Switches Overview documentation)Standardized Cisco Logging and Interface Naming Configuration Templates  Adaptive Policy  Intelligent CaptureDevice Uptime Support for regional clouds: Meraki India, Meraki China, and Meraki CanadaNote for Meraki China: Intelligent packet capture and standard packet captures are currently not supported for Catalyst switches running IOS XE in the Meraki China region. Support for Intelligent packet capture is planned for a future update.For further details, refer to the release notes on the cloud dashboard. Share Your Post-upgrade Feedback!\nWe value your feedback on our latest release! Complete this short 5-minute survey to tell us about your experience.Refer to the Cloud Configuration: Release Versions and Highlights page. This page lists the features, supported models or families, minimum required licenses, and other details for each major Cloud Management version with IOS XE in Cloud Configuration.CategoryProductFirmware NeedsPathFirmware Upgrade for Cloud-Managed Catalyst Switching Cloud Managed Catalyst 9300/MS390/C9200LCloud Management with IOS XE 17.1x.xUpgrade from CS17 or Cloud Management IOS XE 17.15 to newest release on dashboard following the steps documented in Upgrade Steps for Cloud-Managed Catalyst Switches in Cloud Operating Mode.Switching Migration from CLI/DNA Management to Meraki Management  Catalyst 9300 and C9200L from DNA/CLICloud Management with IOS XE 17.1xFollow the migration process documented and supported models in Migration from CLI-managed Catalyst Switches to Meraki Cloud Operating ModeCatalyst 9300  CS17 GAFollow the migration process documented in Migrating DNA Management Mode to Meraki Management Mode (Migrated switches will run CS)Cloud-managed Catalyst switches that are being scheduled for an upgrade from any CS firmware version to the latest Cloud Management with IOS XE version (17.1x.x) should first meet the minimum CS firmware requirement of CS17 version before upgrading.ATTEMPTING TO MIGRATE UNSUPPORTED MODELS MAY RESULT IN A UNUSABLE SWITCH, AND MAY VOID THE DEVICE WARRANTY. REVIEW THE LIST OF SUPPORTED MODELS BEFORE PROCEEDING WITH THE UPGRADE.Applies only to configuration source: cloud: Stacking Limit for C9200L series models: C9200L series models support stacking configurations of up to 5 members. Ensure your stacks for these models adhere to this limit. Exceeding 5 members may lead to unexpected behavior. This will be resolved in a future release. Refer to the Cloud Configuration: Release Versions and Highlights page, which lists the features, supported models/family, minimum required license, and other details for each major Cloud Management with IOS XE version in Cloud Configuration.Due to changes in behavior caused by architectural differences between CS and IOS-XE, it is strongly advised to review this checklist and key considerations to ensure successful upgrades and connectivity thereafterDowngrades are restrictedDowngrades from Cloud Management with IOS XE to any prior CS firmware via the dashboard is restricted. For more details, refer to Downgrading from Cloud Management with IOS XE is RestrictedReview any actions that may be required if L3 interfaces are configured Due to changes in behavior on management interface, it is required to review the management VLAN scenario that applies to your devices and make required changes before proceeding with the upgrade.Review and take action if required on the following:Allow ICMP Pings to dashboardCatalyst devices need ICMP ping connectivity to several destinations to test uplink connectivity to the dashboard. For successful upgrades and continued connectivity post-upgrade, ensure that outbound ICMP pings from Catalyst devices are permitted to the following destinations:\n\nconfig-2037.meraki.com, catalyst.meraki.com, google.com, 8.8.8.8 (Google DNS) and 2001:4860:4860::8888 (Google DNS)\n\nStarting from IOS XE 17.15.5, 17.18.3 (future release) and 26.1.2 (future release), Catalyst devices on the dashboard no longer need ICMP ping connectivity to test uplink connectivity.Resolve switch alerts on Organization > alerts page For successful upgrades and continued connectivity post-upgrade, resolve all alerts on the Organization > Alerts page that are associated with the switches being upgraded.Resolve Bad IP assignment alert on Uplink interface A bad IP assignment could cause unstable uplink connectivity to the dashboard which is required for a successful upgrade and continued connectivity post-upgrade. Resolve Bad IP assignment alert on the uplinks of the switches being upgraded. For more details, refer to Bad IP assignment configurationResolve VLAN mismatch alert on Uplink interfaceVLAN mismatches on the uplink interfaces could cause connectivity issues to the dashboard which is required for a successful upgrade and continued connectivity post-upgrade. Resolve any VLAN mismatch alerts found on the uplinks of the switches being upgraded. For more details, refer to VLAN Mismatch Alerts for Meraki SwitchesResolve stacking related issuesIssues related to stacking could cause upgrade failures on some devices leading to version mismatch between the stack members and may severely impact connectivity from the stack members. For successful upgrades and continued connectivity post-upgrade, resolve any issues related to stacking such as Misconfigured Switch, Unconfigured Switch and Switch Not Connected to Stack.Review unsupported features Review unsupported features before proceeding with the upgradeUnsupported features on IOS XE 17.15.3 with cloud configurationCS to IOS-XE: Upgrade CS devices to IOS-XE before adding them to existing networks set to IOS-XE firmwareIf you plan to move or add CS firmware devices to networks with IOS-XE firmware, it is strongly advised to upgrade those CS firmware devices to IOS-XE before moving or adding them into IOS-XE networks.For new CS firmware devices that need onboarding, you can first add them to a separate network, upgrade them to IOS-XE firmware, and then move them to the intended network that already uses IOS-XE firmware. When scheduling a firmware upgrade from CS to IOS-XE from Organization > Firmware Upgrades > Schedule upgrades, the Dashboard performs several pre-checks and displays relevant banners to alert you about any necessary actions.Alert nameAlert detailsResolve switch alerts before proceedingDashboard performs a pre-check to determine existing alerts on switches that may cause upgrade failure or impact switch connectivity after the upgrade.If there are any alerts that may impact the upgrade or connectivity, a banner is displayed linking to the existing alerts. You may acknowledge and continue without any action, but it is highly advised to review and resolve any alerts before proceeding with the upgrade.Catalyst devices require ICMP ping connectivity to multiple destinations to verify uplink connectivity with the dashboard. The Dashboard selects one switch IP address from each management subnet in the network and performs a pre-check by pinging these destinations:config-2037.meraki.com, catalyst.meraki.com, google.com, 8.8.8.8 (Google DNS) and 2001:4860:4860::8888 (Google DNS) \n\nIf one or more pings fail, a banner is displayed advising you to enable outbound ICMP pings to the specified destinations. For successful upgrades and continued connectivity post-upgrade, ensure that outbound ICMP pings from Catalyst devices are permitted to the destinations listed on the banner.\n\nStarting from IOS XE 17.15.5, 17.18.3 (future release) and 26.1.2 (future release), Catalyst devices on the dashboard no longer need ICMP ping connectivity to test uplink connectivity.Note: The uplink ICMP connectivity pre-check is performed once every 24 hours for a given network. As a result, if you permit ICMP pings and attempt to schedule an upgrade within that same 24-hour window, the banner may still be displayed.Action required before upgradeBy default, a checklist warning banner appears for your review. To ensure a successful upgrade and continued connectivity after the upgrade, it is highly advised to review the checklist and make any necessary changes before acknowledging and proceeding. Refer to Firmware Upgrade Visibility for Cloud-Managed IOS XE Switches to learn about the visibility you can gain into upgrade status, upgrade stages, and upgrade failure/retry behavior.In scenarios where an upgrade fails due to issues such as bad IP assignment, ICMP pings being blocked, or stack members not being online, an event will be logged under Network-wide > Event log. This event indicates the specific reason for the upgrade failure, helping to identify and troubleshoot the problem.Due to complexities in restoring the container-based architecture, downgrades from Cloud Management with IOS XE to any prior CS firmware via the dashboard is restricted. A factory reset may be required and support assistance will be necessary. Consider this before upgrading your production network to the cloud management with IOS XE version. It may take up to one day to assign a support team to handle a downgrading request. Expect possible delays beyond the usual response time.After migrating to Cloud Management, note that remote access (serial console and SSH) are no longer available. All management access can now be accessed through the cloud dashboard or the local status page via the rear management port. For detailed instructions and recommendation on migrating a Layer 2 and a Layer 3 Switch from CS firmware to IOS XE firmware, please refer to Migrating Switches From CS Firmware to IOS XE FirmwarePlease note:\nSwitch Templates can only be upgraded with no bound networks and once that template has upgraded, it cannot be downgraded. Migrating a switch template with bound networks is not directly supported. The recommendation is to migrate networks one at a time into a new template using the following procedure for more granular control. The rebind tool can also be used to move networks over in batches (please test one network before doing large batches)Step 1: Preparation Prep (Create a second configuration template) Organization->Configuration Templates \u201cCreate a new template\u201d \u201cCopy settings from\u201d choose source template Organization->Firmware Upgrades Upgrade new template to 17.15.x (latest 17.15 GA) for CS firmware, leave MS firmware the same \u201cAcknowledge the firmware upgrade checkbox\u201d and enter your name \u201cPerform the upgrade now\u201d Wait 10-15 minutes for the new empty template network to upgrade to the latest firmware version. Verify new template is at the correct firmware version and switch template port mappings are correct  Step 2: Unbind Networks Note: Unbinding a network preserves current active network-module Organization->Configuration Templates Select Source Template Choose networks in template and click \u201cunbind\u201d Choose \u201cUnbind and Retain Configurations\u201d Confirm \u201cYes, unbind template and retain configurations\u201d  Step 3: Upgrade the Unbound Networks (optional) Note: This phase can be skipped, but is recommended to allow for rollback and staged-upgrades if neededUpgrade Networks before rebinding Organization->Firmware Upgrades Upgrade unbound networks to 17.15.x(latest 17.15GA) Staged upgrades/scheduling can be done at this point  Step 4: Rebind Networks to New Template Note: Networks not upgraded to match template will upgrade during binding Note: That rebinding switches to templates will lose port-overrides, layer3 interfaces etc Organization->Configuration Templates Select Destination template Select \"Bind additional networks\" and select your network to re-bind  Feature MS / CS IOS XE17.15.4.1 17.18.1 17.18.2IOS XE17.15.5VLAN Discovery   VLAN Interfaces  IPv4/IPv6 address assignment  Interface Scoring     ARP Prober Compute best uplink Gateway ARP Ping responses  Cause for re-compute best uplink  Rescoring (for recomputing best uplink)   DNS DNS server either configured if static uplink present or received using DHCP server Curl request and nextunnel  connection use DNS over HTTPS (DOH), if DNS resolution fails. DNS server either configured or received using DHCP  server UAC DNS resolution does not use specific interface, but relies on XE infra (default route) Curl request and nextunnel  connection use DOH, if DNS resolution fails. DNS server either configured or received using DHCP  server UAC DNS resolution does not use specific interface, but relies on XE infra (default route) Curl request and nextunnel  connection use DOH, if DNS resolution fails.  Feature MS / CSIOS XE17.15.4.1 17.18.1 17.18.2IOS XE17.15.5Config Fetch for Nextunnel Connection Monitor  Config Updater  Config Rollback  Uplink Auto Configuration facilitates automatic identification of uplink interfaces and provides connectivity to Meraki Dashboard, eliminating the need for manual configuration of the switch. UAC supports new and existing deployments to ensure connectivity to Meraki Dashboard. UAC selects the uplink interface, connects to dashboard, and maintains the uplink connectivity. UAC provides reduced manual configuration effort, improved device management, easier device deployment, increased network scalability, and improved network reliability. UAC is implemented as a IOSd subsystem to utilize features like vlan-stats, ARP probes, and ping probes (depending on version listed above) for better performance and scale.  Note: UAC Auto Fallback feature is available in IOS XE 17.15.4.1+.Underlying network has connectivity to DashboardDHCP server in the network or user assigning ip addressesDNS server available & reachable from the deviceMinimum 60 packets per 2 minutes on an active/uplink VLANPort in trunk modeL2 VLAN configuredDHCP on an Uplink VLANDNS server availabilityL2 VLAN configuredAt least one path to reach Dashboard workingIP address assignment to SVI (DHCP or static)DNS server configured/available and reachable through default gatewayWhen the switch is powered on, UAC will attempt to identify any active VLANs in the network using data plane vlans-stats for frames the switch receives.  If any VLAN receives more than 60 frames in 2 minutes then UAC will mark those as active VLANs.  Once UAC has a list of active VLANs it will start to validate them as a potential uplink interfaces starting with the first active VLAN that received 60 or more frames within 2 minutes.  UAC will configure an L3 SVI interface and enable DHCP to check if the SVI obtains IP address information.  UAC will then go through each active VLAN that has a L3 capable SVI and will start testing each one serially.  UAC will attempt to verify if a layer 3 gateway was received as part of the DHCP offer.  If it was then UAC will test the gateway by issuing an ARP gateway probe in 17.15.5. If the ARP gateway probe is successful then that L3 SVI will be chosen as the uplink interface to Meraki Dashboard.  Once this process has completed UAC will add the appropriate Dashboard routes and will bring up the encrypted tunnel to Meraki Dashboard for management.  For versions 17.15.4.1, 17.18.1, and 17.18.2 UAC will test the gateway by issuing an ARP probe and if successful will then will attempt to ping the gateway address.  If both of those are successful, UAC will then attempt to ping catalyst.meraki.com.  If that is successful then that L3 SVI will be chosen as the uplink interface to Meraki Dashboard.  Once this process has completed UAC will add the appropriate Dashboard routes and will bring up the encrypted tunnel to Meraki Dashboard for management.  For cloud managed Catalyst switches running IOS XE 17.15.5, once the switch has been deployed, if there is a preferred uplink chosen, UAC will start with that as the uplink interface.  There could be instances when the user selected preferred uplink isn't being used.  This could be due to the following reasons: gateway ARP probe failure, not enough traffic being generated on the preferred VLAN when the switch was brought online initially, DHCP server not reachable, etc. If UAC switches to different uplink interface due to ARP gateway probe failure, UAC will switch back over to the selected preferred uplink automatically once the ARP gateway probe is successful.  UAC will continue to monitor the uplink interface via ARP gateway probes . If for some reason there is an issue where the ARP gateway probe has 3 failures UAC will automatically failover to the interface with the next highest score.  For cloud managed Catalyst switches running IOS XE 17.15.4.1, 17.18.1, or 17.18.2 once the switch has been deployed, if there is a preferred uplink chosen, UAC will start with that as the uplink interface.  There could be instances when the user selected preferred uplink isn't being used.  This could be due to the default gateway not reachable, DNS not resolving, unable to ping catalyst.meraki.com, not enough traffic being generated on the preferred VLAN when the switch was brought online initially, DHCP server not reachable, etc.  If for any reason UAC switches to a different uplink from the selected preferred uplink, UAC will NOT switch back over to the selected preferred uplink automatically.  There would have to be an issue impacting the existing uplink's connectivity to Dashboard in order for UAC to switch over to the user selected preferred uplink.  This is to limit potential flapping of tunnel interfaces to Dashboard.  UAC will continue to monitor the uplink interface every two minutes via ARP and ping probes . If for some reason there is an issue impacting connectivity to Meraki Dashboard, after 5 minutes, UAC will attempt to select another uplink interface in order to restore connectivity to Dashboard. Configuring a switch's default routing table with uplink interface and gateway centralizes path selection for both local and downstream devices. Key operational impacts include:For configuration, you can manage these settings in the Meraki Dashboard under Switching > Configure > Routing & DHCP.  UAC may choose a uplink interface other than the preferred uplink in cases where upstream connectivity has been disrupted.  UAC fallback is a feature that, when enabled, will periodically check the health of the preferred uplink.  Once the preferred uplink is considered healthy, UAC will automatically fall back to the preferred uplink without any manual intervention.  To enable the Auto Fallback feature simply navigate to Switching, Configure, Switch Settings and select the check box next to \"Automatically fallback to preferred uplink when available\" and then click \"Save changes\".Customers who do not want to enable the UAC Automatic Fallback to Preferred Uplink feature will still have the option to force UAC to recheck the uplink interfaces and attempt to fail over to the preferred uplink manually.  This can be done via the Switching, Switches, Switch Summary page.  The \"Recheck uplinks\" button is located on the left side pane on the Switch Summary page. Customers who want to have control over which interfaces UAC selects for uplink consideration will be able to opt into the Allow List feature by navigating to Organization, Early Access.  Once on the Meraki Early Access Program page look for the feature UAC Allow List and \"opt in\".  Once you have opted into UAC Allow List, you will then navigate to Switching, Switch Settings Page to enable the feature.  When enabling this feature, by default only the configured preferred uplink will be allowed.  Prior to enabling, ensure the switch is connected to Dashboard with the configured preferred uplink interface in order to avoid any connectivity issues connecting to Dashboard.  When enabling this feature, all compatible switches running 17.18.2 will have Allow List enforced.  In order to configure additional interfaces for UAC to include in the uplink selection process, navigate to Switching, Routing & DHCP page.  Select the interface you want to include, navigate to the management connectivity section in the interface editor and select the Candidate uplink check box, then click Save changes.  UAC requires a route within the routing table in order to properly select an interface for uplink connectivity.  In order to support candidate uplink interfaces when Allow List is enforced it is required to have a corresponding static route configured for that candidate interface.  If there are no candidate uplink interfaces configured when Allow List is enabled, UAC will only use the preferred uplink for Dashboard connectivity and will not attempt to select an alternate interface if the configured preferred uplink has connectivity issues to Dashboard.  When you change your preferred uplink, the previous uplink is removed from the Allow List. To use it again as a candidate uplink, you must manually re-add it.Cloud CLI allows users to view the current uplink interface, configured preferred uplink, and any candidate interfaces when allow list is enabled.The management interface is now a Layer 3 (L3) interface. Previously, switches running CS firmware needed a specific management IP address. Now, management is handled by any L3 interface. All settings related to management connectivity and L3 interfaces can now be found on the Routing & DHCP page. For switches that only support Layer 2 (L2), DHCP functionality is available, but enabling L3 functionality requires setting a static management IP address first.Watch this video to learn more about this change. Upgrading to the Cloud Management with IOS XE 17.1x.x firmware simplifies the network module configuration. When a module is not installed, the configuration is consolidated into eight default ports. Once a network module is installed, these ports are automatically mapped to the appropriate interfaces. Previously, each potential network module required its own unique configuration. For instance, configuring a 48-port switch required configuring 98 ports to accommodate every possible module. Now, there are only 56 ports (48+8) needed to support both current and future modules.Watch this video to learn more about this change.When upgrading to the Cloud Management with IOS XE firmware, if your switch fails to come online after transitioning from CS firmware, it will automatically revert to the CS/Container firmware after a period of 2 hours.It is important not to reboot or factory reset the switch during this 2-hour window, as this may corrupt the rollback configuration and hinder the switch's recovery and will ultimately corrupt the rollback configuration. If, after 2 hours, the switch has not recovered or connected to the dashboard, contact support. Once the switch has successfully recovered, it will not attempt the upgrade again for another 2 hours.Additionally, if the switch successfully upgrades to the Cloud Management with IOS XE firmware, ensure it remains online and connected for 30 minutes following the upgrade. This duration allows the configuration to be marked as safe and committed. Rommon access is different than traditional Catalyst while in Cloud Managed mode. Please note the following behavior differencesPrior to Cloud Management with IOS XE, Layer3 Meraki switches required at least two IP addresses, one for the management IP and a second for the Layer3 Switch Virtual Interface (SVI). You cannot route traffic through the management-IP, it essentially worked as an out-of-band management interface. In Cloud Management with IOS XE, the Meraki management interface is now combined with a Layer 3 uplink SVI, using one single IP address, rather than two.\n\nTo use Layer3 SVI's with Cloud Management with IOS XE, the following requirements/conditions apply:Spanning-Tree Protocol (STP) behaves differently in Cloud Management with IOS XE 17.15.1 onwards.For spanning-tree root bridges, MSTP is preferred and remains compatible with Rapid-PVST+ as long as VLAN 1 is allowed on the trunk. If VLAN 1 is not configured on the uplink, the downstream Cloud Management with IOS XE/MSTP switch will become the root for all VLANs.DHCP pool configurations with fixed IP bindings must have the static binding deleted prior to modifying the size of the subnet for the DHCP pool. This will avoid any errors when pushing the configuration to the switch from Dashboard.      The system LED on the switch indicates the system status, including the progress of booting and connecting to the Meraki dashboard without logging in into the system or Dashboard. The MS390 switch has a rainbow system LED to indicate the system state. This rainbow LED is not available on Catalyst 9000 hardware. Blue Beacon LED button and the System LED are instead used on Catalyst 9000 hardware to indicate the system status.For the LED behaviour of cloud-managed Catalyst 9000 switches refer to the table in our Catalyst 9300/X/L-M Series Installation Guide. It stays the same in the Cloud Management with IOS XE firmware.For the LED behaviour of MS390 refer to our documentation on MS390 Series Installation Guide. However, Cloud Management with IOS XE with MS390 adds two additional stages (taken from Catalyst 9000), described below:MS390 StageRainbow LEDCommentsSystem error: Switch failed to complete local provisioningSolid AmberNew LED SchemeThere is a fault with the power supply, fan, or network module (not traffic-related)Alternatively blinking Amber and WhiteNew LED SchemeThe following features are not available in Cloud Management with IOS XE. Future releases will address these features.Refer to the Cloud Configuration: Release Versions and Highlights page, which lists the supported features on 17.18.x.SmartPorts MAC BlocklistDigital Optical Monitoring (DOM)RSPAN / VLAN SPANIPv6 RA Guard / DHCP GuardHTTP Proxy Sticky MAC Dynamic ARP Inspection (DAI) Auto-UplinkNetflow on IPv6"
+        }
+    ],
+    [
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS120_Overview_and_Specifications",
+            "title": "MS120",
+            "overview": "With 5 different models capable of providing up to 740 W of power over a variety of port densities, including Small-Form Factor Pluggable (SFP) capable uplinks, the MS120 line is fully ready to support future wireless infrastructure deployments across a variety of different environments.\n ",
+            "features": [
+                "Managed via Cisco Meraki dashboard ",
+                "Remote packet papture pools via Meraki dashboard",
+                "Automatic firmware upgrades ",
+                "Simple Network Management Protocol (SNMP)/Syslog integration ",
+                "IPv4/6 Access Control List (ACL) support ",
+                "802.1q VLAN tagging  ",
+                "DHCP snooping ",
+                "802.1X authentication",
+                "10/100/1000 Mbps RJ45",
+                "4x 1000 Mbps SFP models available ",
+                "Power over Ethernet (PoE) and PoE+ models available for device-level powering"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS125_Overview_and_Specifications",
+            "title": "MS125",
+            "overview": "With 5 different models, capable of providing up to 740W of power over a variety of port densities, including 10Gb SFP+ capable uplinks, the MS125 line is fully ready to support future wireless infrastructure deployments across a variety of different environments.\n",
+            "features": [
+                "Managed via Cisco Meraki Dashboard",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1Q VLAN tagging  ",
+                "DHCP Snooping ",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "4x 1000/10000 Mbps SFP+ ports",
+                "PoE and PoE+ models available for device level powering"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS130_Datasheet",
+            "title": "MS130",
+            "overview": "With 10 different models, capable of providing up to 740W of power over a variety of port densities, including SFP+ capable uplinks, the MS130 line is fully ready to support future wireless infrastructure deployments across a variety of different environments.\n",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1Q VLAN tagging  ",
+                "DHCP Snooping ",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "100M/1G/2.5G mGbE RJ45",
+                "4x 10 Gbe SFP+ models available ",
+                "802.3bt PoE up to 30W per port"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS130R_Datasheet",
+            "title": "MS130R",
+            "overview": "Designed for adapting to non-traditional environments, the diverse mounting and power options offer deployment flexibility. The powerful Meraki cloud-native platform enables seamless and remote deployment and management of entire Meraki product suite through one centralized dashboard. \n                                ",
+            "features": [
+                "Extended Operating Temperature Range",
+                "Flexible Powering Options",
+                "Rack, Wall, and DIN rail mounting options",
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support",
+                "802.1Q VLAN tagging",
+                "DHCP Snooping ",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "802.3bt PoE up to 30W per port"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS150_Datasheet",
+            "title": "MS150",
+            "overview": "With 12 different models, the MS150 offers a combination of 1Gig and mGig ports supporting up to 740W of power, SFP+ uplinks, and backplane stacking. This line enables scalability to support the growing wired and wireless infrastructure deployments. \n ",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "Broadcast Storm Control ",
+                "Adaptive Policy",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "2x Dedicated Stack Ports providing 80G of Stacking bandwidth",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "100M/1G/2.5G/5G mGbE RJ45",
+                "4x 10 Gbe SFP+ models available ",
+                "802.3bt PoE up to 60W per port models available",
+                "Perpetual PoE and Fast PoE",
+                "Static routing"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS210_Overview_and_Specifications",
+            "title": "MS210",
+            "overview": "With 5 different models, capable of providing up to 740W of PoE+ power over a variety of port densities, including SFP capable uplinks, the MS210 line is fully ready to support future wireless infrastructure deployments across a variety of different environments.\n ",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "Static routing",
+                "2x Dedicated Stack Ports providing 80G of Stacking bandwidth",
+                "Broadcast Storm Control ",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "4x 1000 Mbps SFP models available ",
+                "PoE and PoE+ models available for device level powering"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS225_Overview_and_Specifications",
+            "title": "MS225",
+            "overview": "With 5 different models, capable of providing up to 740W of PoE+ power over a variety of port densities, including SFP+ capable uplinks, the MS225 line is fully ready to support future wireless infrastructure deployments across a variety of environments.\n ",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "Static routing",
+                "2x Dedicated Stack Ports providing 80G of Stacking bandwidth",
+                "Broadcast Storm Control ",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "4x 1000/10000 Mbps SFP+ ",
+                "PoE and PoE+ models available for device level powering"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS250_Overview_and_Specifications",
+            "title": "MS250",
+            "overview": "With 5 different models, capable of providing up to 740W of PoE+ power over a variety of port densities, including SFP+ capable uplinks, the MS250 line is fully ready to support branch and small campus infrastructure deployments. \n ",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "L3 Switching including OSPF",
+                "2x Dedicated Stack Ports providing 80G of Stacking bandwidth",
+                "Broadcast Storm Control ",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "4x 1000/10000 Mbps SFP+ ",
+                "PoE+ models available for device level powering",
+                "Warm Spare capable"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS350_Overview_and_Specifications",
+            "title": "MS350",
+            "overview": " \n",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "L3 routing including OSPF",
+                "Broadcast Storm Control ",
+                "2x Dedicated Stack Ports providing 160G of Stacking bandwidth",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "4x 1000/10000 Mbps SFP+ ",
+                "8x 100M/1G/2.5G/5G/10G mGbE RJ45 (MS350-24X only)",
+                "PoE+ models available for device level powering",
+                "Warm Spare capable"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS355_Overview_and_Specifications",
+            "title": "MS355",
+            "overview": "With 4 different models, each with multiple mGig RJ45 ports capable of negotiating up to 10Gbps, 40G QSFP+ ports, and dedicated 100G hardware stacking ports, the MS355 line is fully ready to support the future deployment of 802.11ax wireless infrastructure across a variety of different environments. \n ",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "Broadcast Storm Control ",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "802.1X Authentication",
+                "10/100/1000 Mbps RJ45",
+                "100M/1G/2.5G/5G/10G mGbE RJ45 ",
+                "4x 1000/10000 Mbps SFP+ ",
+                "2x 40GbE QSFP+ ",
+                "2x Dedicated Stack Ports providing 400G of Stacking bandwidth",
+                "L3 Switching including OSPF ",
+                "UPoE Support ",
+                "Hot Swappable Power Supplies and Fans ",
+                "Warm Spare capable"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS390_Datasheet",
+            "title": "MS390",
+            "overview": "Adaptive Policy provides simple & scalable security policies to segment traffic using Security Groups. Security Groups are created in the dashboard using natural language such as \u201cIOT device\u201d & \u201cGuest.\u201d The security policy intent (e.g., Permit or Deny) is then simply provisioned between Security Groups which results in the segmentation of each group\u2019s traffic. By making security policy management intuitive and scalable relative to legacy IP-address based Access Control Lists, Adaptive Policy empowers operators to confidently secure their network traffic independent of future network changes. \nBy pooling & distributing power across MS390s using a series of StackPower cables, StackPower provides simple and resilient power distribution across the stack.",
+            "features": []
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS410_Overview_and_Specifications",
+            "title": "MS410",
+            "overview": "Available in 2 different port densities, 16 or 32 x 1G SFP, both of which include 10Gb SFP+ ports and 2 dedicated hardware stacking ports capable of providing up to 160Gbps stacking bandwidth to support small and medium-sized enterprise environments.\n ",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "Broadcast Storm Control ",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "802.1X Authentication",
+                "16 or 32 x 1000 Mbps SFP",
+                "2 or 4 x 1000/10000 Mbps SFP+  ",
+                "Dual Dedicated 40G Hardware Stacking Ports",
+                "L3 Switching including OSPF ",
+                "Hot Swappable Power Supplies and Fans ",
+                "Warm Spare capable"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS425_Overview_and_Specifications",
+            "title": "MS425",
+            "overview": "Available in 2 different port densities, 16 or 32 x 10G SFP+, both of which include 2 \u00d7 40G QSFP+ uplink/stacking ports which are capable of providing up to 160Gbps stacking bandwidth to support campus environments.\n",
+            "features": [
+                "Managed via the Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "Broadcast Storm Control ",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "802.1X Authentication",
+                "16 or 32 x 10,000 Mbps SFP+ ",
+                "2x 40G QSFP+ uplink/stacking ports ",
+                "L3 Switching including OSPF ",
+                "Hot Swappable Power Supplies and Fans ",
+                "Warm Spare capable"
+            ]
+        },
+        {
+            "family": "MS",
+            "url": "https://documentation.meraki.com/Switching/MS_-_Switches/Product_Information/Overviews_and_Datasheets/MS450_Overview_and_Specifications",
+            "title": "MS450",
+            "overview": " \n",
+            "features": [
+                "Managed via Cisco Meraki Dashboard ",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades ",
+                "SNMP/Syslog Integration ",
+                "IPv4/6 ACL support ",
+                "802.1q VLAN tagging  ",
+                "Broadcast Storm Control ",
+                "Dynamic ARP Inspection / DHCP Snooping ",
+                "802.1X Authentication",
+                "12x 40GbE QSFP+ ",
+                "2x 100GbE QSFP28 fiber uplinks",
+                "2x Dedicated Stack Ports for up to 400G of Stacking bandwidth",
+                "L3 Switching including OSPF ",
+                "Hot Swappable Power Supplies and Fans ",
+                "Warm Spare capable"
+            ]
+        },
+        {
+            "family": "CW",
+            "title": "Cisco",
+            "description": "Overview",
+            "overview": "This article provides links to the Cisco Wireless Access Points datasheets.",
+            "feature": []
+        },
+        {
+            "family": "CW",
+            "title": "CW9162",
+            "description": "Ultra-High Performance Wi-Fi 6E Wireless",
+            "overview": " Tri-band 802.11ax-compatible access point with separate radios dedicated to security, RF management, and Bluetooth\u00ae coupled with a USB port for hardware peripherals including third-party solutions.",
+            "feature": [
+                "2x2:2 MU-MIMO 802.11ax compatible",
+                "~3.9 Gbps tri-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated Scanning radio",
+                "Integrated Bluetooth Low Energy Beacon and scanning radio",
+                "1 x 2.5 Gbps mGig Ethernet port support ",
+                "USB 2.0 host interface (Type A connector) with 4.5W power budget ",
+                "Enhanced transmit power and receive sensitivity",
+                "Full-time Wi-Fi location tracking via dedicated Scanning radio",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments"
+            ]
+        },
+        {
+            "family": "CW",
+            "title": "CW9163E",
+            "description": "Ultra-High Performance Wi-Fi 6E Wireless",
+            "overview": "The Cisco Wireless 9163E is an outdoor-rated, enterprise-class 802.11ax on-prem or cloud-managed access point. This AP is equipped with Tri-Band concurrent radios geared towards low/medium density applications. It will work with different external antennas for required directivity. ",
+            "feature": [
+                "2.4 GHz 802.11b/g/n/ax client access radio ",
+                "5 GHz 802.11a/n/ac/ax client access radio ",
+                "6 GHz 802.11ax client access radio ",
+                "2.4 GHz, 5 GHz, and 6 GHz tri-band Air Marshal WIDS/WIPS, spectrum analysis, & location analytics radio ",
+                "2.4 GHz Bluetooth Low Energy (BLE) radio with Beacon and BLE scanning support Concurrent operation of all five radios ",
+                "2.4GHz: Peak gain 4 dBi, omnidirectional in azimuth",
+                "5GHz: Peak gain 8 dBi, omnidirectional in azimuth",
+                "6GHz: Peak gain 8 dBi, omnidirectional in azimuth",
+                "2.4 GHz: Peak gain 8 dBi, directional antenna, (75x30)",
+                "5 GHz: Peak gain 9 dBi, directional antenna, (60x30)",
+                "6 GHz: Peak gain 9 dBi, directional antenna, (72x27)  ",
+                "Optional GNSS/GPS external antenna",
+                "L1/L5 frequency bands",
+                "Integrated mounting bracket for wall or pole mounting",
+                "10ft cable with RP-SMA connector",
+                "UL/DL-OFDMA",
+                "Target Wait Time (TWT)",
+                "BSS coloring*",
+                "2x2 MIMO with two spatial streams",
+                "Maximal ratio combining (MRC)",
+                "802.11ax beamforming ",
+                "20 and 40 MHz* channels (802.11n)",
+                "20, 40*, 80 MHz channels (802.11ac Wave 2)",
+                "20, 40*, 80 and 160MHz channels (802.11ax) ",
+                "Up to 1024-QAM on 2.4 GHz, 5 GHz and 6 GHz bands ",
+                "Packet aggregation - A-MPDU (transmit and receive), A-MSDU (transmit and receive)",
+                "Power over Ethernet: 42.5 - 57 V (PoE+ and UPoE compliant)",
+                "Power requirement: Up to 25W (PoE+)",
+                "Power over Ethernet injector sold separately",
+                "1x 100M/1000M/2.5G Multigigabit Ethernet (RJ-45)",
+                "Management console port (RJ-45)",
+                "4x N-Type Wi-Fi Antenna Connectors",
+                "RP-SMA Active GPS/GNSS Antenna Connector",
+                "Wall and pole (2.5\u201d to 3.9\u201d diameter) mount capable",
+                "Compatible with MA-MNT-MR-16 (included) and AIR-MNT-VERT1",
+                "Integrated Layer 7 firewall with mobile device policy management ",
+                "Real-time WIDS/WIPS with alerting and automatic rogue AP containment with Air Marshal ",
+                "Flexible guest access with device isolation ",
+                "VLAN tagging (802.1q) and tunneling with IPsec VPN ",
+                "PCI compliance reporting ",
+                "WPA2-PSK, WPA2-Enterprise, WPA3 - Personal, WPA3 - Enterprise, WPA3 - Enhanced Open (OWE)",
+                "EAP Local authentication - EAP-TTLS/PAP, PEAP-GTC, EAP-TLS",
+                " Advanced Encryption Standard (AES)",
+                "Enterprise Mobility Management (EMM) & Mobile Device Management (MDM) integration ",
+                "Cisco ISE integration for Guest access and BYOD Posturing",
+                "Advanced Power Save (U-APSD) ",
+                "WMM Access Categories with DSCP and 802.1p support ",
+                "Layer 7 application traffic identification and shaping",
+                "PMK, OKC, & 802.11r for fast Layer 2 roaming ",
+                "Distributed or centralized layer 3 roaming",
+                "Embedded location analytics reporting and device tracking ",
+                "Global L7 traffic analytics reporting per network, per device, & per application",
+                "One power/booting/firmware upgrade status",
+                " 468,413 hrs at 77\u00b0F (25\u00b0C) operating temperature",
+                " 128,631 hrs at 149\u00b0F (65\u00b0C) operating temperature",
+                "Access point (without mounting brackets):",
+                "CW9163E: 9.64 x 9.64 x 2.5 in. (245 x 245 x 63.5 mm)",
+                "3.3 lb (1.50 kg)  ",
+                "802.3at Power over Ethernet Plus (PoE+), 802.3af Power over Ethernet (PoE)",
+                "Nonoperating (storage) temperature: -22\u00b0 to 158\u00b0F (-30\u00b0 to 70\u00b0C)",
+                "Nonoperating (storage) altitude test: 25\u00b0C (77\u00b0F) at 15,000 ft (4600 m)",
+                "Operating temperature: -40\u00b0 to 149\u00b0F (-40\u00b0 to 65\u00b0C) without solar derating",
+                "Operating temperature: -40\u00b0 to 131\u00b0F (-40\u00b0 to 55\u00b0C) with solar derating  ",
+                "Operating humidity: 5% to 95% (noncondensing)",
+                "Operating altitude test: 40\u00b0C (104\u00b0F) at 9843 ft (3000 m)",
+                "Ingress Protection: IP67",
+                "Wind resistance up to 100 mph (161 km/h) sustained winds and 165 mph (266 km/h) wind gusts",
+                "Icing protection: MIL-STD-810F,13mm 13mm (0.5 in.)",
+                "Corrosion: NEMA 250-2008 (600 hrs. salt, 1200 hrs. mixed gas)",
+                "Solar radiation: EN 60068-2-5 (753 W/m2)",
+                "Vibration: MIL-STD-810E, Method 514.4 (0.41 Grms from 5Hz to 500Hz, 2 hours per each axis X,Y,Z)",
+                "2048 MB DRAM",
+                "1024 MB flash",
+                "Outdoor access point",
+                "1 year hardware warranty with advanced replacement included",
+                "23 dBm (200 mW)",
+                "-4 dBm (0.39 mW)",
+                " 23 dBm (200 mW)",
+                "-4 dBm (0.39 mW)",
+                "23 dBm (200 mW)",
+                "-4 dBm (0.39 mW)"
+            ]
+        },
+        {
+            "family": "CW",
+            "title": "CW9164",
+            "description": "High-Performance Wi-Fi 6E Wireless",
+            "overview": "Tri-band 802.11ax-compliant access point with separate radios dedicated to security, RF management, and Bluetooth\u00ae coupled with a USB port for added connectivity options.",
+            "feature": [
+                "2x2:2 and 4x4:4 MU-MIMO 802.11ax compatible",
+                "7.49 Gbps tri-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated Scanning radio",
+                "Integrated Bluetooth Low Energy Beacon and scanning radio",
+                "1x 2.5 Gbps mGig Ethernet port ",
+                "USB 2.0 host interface (Type A connector) with a 4.5W power budget ",
+                "Enhanced transmit power and receive sensitivity",
+                "Full-time Wi-Fi location tracking via dedicated Scanning radio",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments"
+            ]
+        },
+        {
+            "family": "CW",
+            "title": "CW9166",
+            "description": "Ultra-High Performance Wi-Fi 6E Wireless",
+            "overview": " Tri-band 802.11ax-compatible access point with separate radios dedicated to security, RF management, and Bluetooth\u00ae coupled with a USB port for added connectivity options.",
+            "feature": [
+                "4x4:4 UL/DL MU-MIMO 802.11ax compatible",
+                "7.78 Gbps tri-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated Scanning radio",
+                "Integrated Bluetooth Low Energy Beacon and scanning radio",
+                "Single 5 Gbps mGig Ethernet port support ",
+                "USB 2.0 host interface (Type A connector) with 4.5W power budget ",
+                "Enhanced transmit power and receive sensitivity",
+                "Full-time Wi-Fi location tracking via dedicated Scanning radio",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments"
+            ]
+        },
+        {
+            "family": "CW",
+            "title": "CW9172H",
+            "description": "",
+            "overview": "",
+            "feature": [
+                "2x2:2 UL/DL MU-MIMO 802.11be compatible",
+                "9 Gbps tri-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated Scanning radio",
+                "Integrated Bluetooth Low Energy Beacon and scanning radio",
+                "Single 2.5 Gbps mGig Ethernet port support ",
+                "3x 1 Gbps Wired LAN Port with 1 LAN port capable of PoE out.",
+                "1 Pass through port",
+                "Full-time Wi-Fi location tracking via dedicated Scanning radio",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Enhanced transmit power and receive sensitivity"
+            ]
+        },
+        {
+            "family": "CW",
+            "title": "CW9172I",
+            "description": "",
+            "overview": " ",
+            "feature": [
+                "2x2:2 UL/DL MU-MIMO 802.11be compatible",
+                "9 Gbps tri-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated Scanning radio",
+                "Integrated Bluetooth Low Energy Beacon and scanning radio",
+                "Single 2.5 Gbps mGig Ethernet port support ",
+                "USB 2.0 host interface (Type A connector) with 4.5W power budget ",
+                "Dedicated 2.4 GHz IoT Radio with Application hosting technology",
+                "Full-time Wi-Fi location tracking via dedicated Scanning radio",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Enhanced transmit power and receive sensitivity"
+            ]
+        },
+        {
+            "family": "CW",
+            "title": "CW9176I",
+            "description": "High-Performance Wi-Fi 7 Wireless",
+            "overview": "Cisco Wireless 9176 Series Wi-Fi 7 access points are ideal for high-density environments and critical applications. These access points support both on-premises and cloud management. Cisco Wireless' Wi-Fi 7 access points can leverage Wi-Fi 7 to support video streaming, augmented reality (AR), and virtual reality (VR) applications. These access points offer real-time insights and personalized user experiences.",
+            "feature": [
+                "4x4:4 UL/DL MU-MIMO 802.11be compatible",
+                "18 Gbps tri-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated Scanning radio",
+                "Integrated Bluetooth Low Energy Beacon and scanning radio",
+                "Single 10 Gbps mGig Ethernet port support ",
+                "USB 2.0 host interface (Type A connector) with 9W power budget ",
+                "Built-in USB, GPS/GNSS module",
+                "Dedicated 2.4 GHz IoT Radio with Application hosting technology",
+                "Full-time Wi-Fi location tracking via dedicated Scanning radio",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Enhanced transmit power and receive sensitivity"
+            ]
+        },
+        {
+            "family": "CW",
+            "title": "CW9178I",
+            "description": "Ultra High-Performance Wi-Fi 7 Wireless",
+            "overview": "",
+            "feature": [
+                "Four 4x4:4 MU-MIMO 802.11be compatible",
+                "24 Gbps quad-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated fourth radio",
+                "Integrated Bluetooth Low Energy beacon and scanning radio",
+                "Dual 10 Gbps mGig ethernet port support for PoE and link redundancy",
+                "USB 2.0 host interface (Type A connector) with 9.0W power budget",
+                "Enhanced transmit power and receive sensitivity",
+                "Full-time Wi-Fi location tracking via a dedicated third radio",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Common hardware capable of  connecting to Meraki dashboard or Cisco Catalyst On-perm deployment"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "MR28",
+            "description": "Entry Level Cloud Managed Wi-Fi 6 Access Point",
+            "overview": "Note: Only MA-PWR-30W-XX (XX - AU, EU, CN, UK, US) AC adapters are compatible with MR28. Previous generations of AC adapters are not compatible with MR28.\n\n",
+            "feature": [
+                "2x2:2 MU-MIMO 802.11ax ",
+                "1.5* Gbps dual-radio aggregate frame rate",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR36",
+            "description": "High Performance 802.11ax Wireless",
+            "overview": " \n\n",
+            "feature": [
+                "2x2:2 MU-MIMO 802.11ax ",
+                "1.5* Gbps dual-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated third radio",
+                "Integrated Bluetooth Low Energy Beacon",
+                "Integrated scanning radio",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments",
+                "Full-time Wi-Fi location tracking via dedicated 3rd radio"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR36H",
+            "description": "High Performance 802.11ax Wireless",
+            "overview": "\n\n",
+            "feature": [
+                "2x2:2 MU-MIMO 802.11ax ",
+                "1.5* Gbps dual-radio aggregate frame rate",
+                "3 wired access ports and a Passthrough port integrated.",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated third radio",
+                "Integrated Bluetooth Low Energy Beacon",
+                "Integrated scanning radio",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments",
+                "Full-time Wi-Fi location tracking via dedicated 3rd radio"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR44",
+            "description": "High Performance 802.11ax Wireless",
+            "overview": "\n\n",
+            "feature": [
+                "2x2:2 (2.4GHz) + 4x4:4 (5GHz) MU-MIMO 802.11ax ",
+                "2.7 Gbps* dual-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated third radio",
+                "Integrated Bluetooth Low Energy Beacon",
+                "Integrated scanning radio",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments",
+                "Full-time Wi-Fi location tracking via dedicated 3rd radio"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR45",
+            "description": "",
+            "overview": "\n\n",
+            "feature": [
+                "Managed via Cisco Meraki Dashboard",
+                "Remote Packet Capture Tools via Meraki Dashboard",
+                "Automatic Firmware upgrades",
+                "802.11X and Active Directory integration",
+                "Air Marshal for wireless reporting and security",
+                "Stateful Layer 3-7 firewall options",
+                "Integrated antivirus scanning",
+                "Dual-concurrent radios with MU-MIMO",
+                "Dedicated scanning radio",
+                "Real-time RF spectrum views",
+                "Cloud-based automatic RF environment optimization",
+                "Location analytics",
+                "Cisco ISE integration for guest access and BYOD posturing",
+                "Maximal ratio combining (MRC) and beamforming",
+                "Wi-Fi 6 (802.11ax) wireless support",
+                "Integrated Ethernet port with Multigigabit capabilities"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR46",
+            "description": "High-Performance 802.11ax Wireless",
+            "overview": " \n\n",
+            "feature": [
+                "4x4:4 MU-MIMO 802.11ax ",
+                "2.98* Gbps dual-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated third radio",
+                "Integrated Bluetooth Low Energy beacon",
+                "Integrated scanning radio",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments",
+                "Full-time Wi-Fi location tracking via dedicated third radio"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR46E",
+            "description": "High Performance 802.11ax Wireless",
+            "overview": " \n\n",
+            "feature": [
+                "4x4:4 MU-MIMO 802.11ax ",
+                "2.98* Gbps dual-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated third radio",
+                "Integrated Bluetooth Low Energy Beacon",
+                "Integrated scanning radio",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments",
+                "Full-time Wi-Fi location tracking via dedicated 3rd radio"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR56",
+            "description": "High Performance 802.11ax Wireless",
+            "overview": "\n\n",
+            "feature": [
+                "4x4:4 (2.4GHz) and 8x8:8 (5GHz)MU-MIMO 802.11ax",
+                "5.38* Gbps dual-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated third radio",
+                "Integrated Bluetooth Low Energy Beacon",
+                "Integrated scanning radio",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments",
+                "Full-time Wi-Fi location tracking via dedicated 3rd radio"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR57",
+            "description": "Product Highlights",
+            "overview": "Self-configuring, plug-and-play deployment\n\n",
+            "feature": [
+                "Four 4:4 MU-MIMO 802.11ax compatible",
+                "7.78 Gbps tri-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated fourth radio",
+                "Integrated Bluetooth Low Energy beacon and scanning radio",
+                "Dual 5 Gbps mGig ethernet port support ",
+                "USB 2.0 host interface (Type A connector) with 9.5W power budget",
+                "Enhanced transmit power and receive sensitivity",
+                "Full-time Wi-Fi location tracking via dedicated third radio",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR57",
+            "description": "Power Mode Selection",
+            "overview": " \n\n",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "MR76",
+            "description": "High Performance 802.11ax Wireless",
+            "overview": " \n\n",
+            "feature": [
+                "2x2:2 MU-MIMO 802.11ax ",
+                "1.5* Gbps dual-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated third radio",
+                "Integrated Bluetooth Low Energy Beacon",
+                "Integrated scanning radio",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments",
+                "Full-time Wi-Fi location tracking via dedicated 3rd radio"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR78",
+            "description": "Entry Level Cloud Managed Outdoor Wi-Fi 6 Access Point",
+            "overview": "\n\n",
+            "feature": [
+                "2x2:2 MU-MIMO 802.11ax ",
+                "1.5* Gbps dual-radio aggregate frame rate",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "MR86",
+            "description": "High Performance 802.11ax Wireless",
+            "overview": " \n\n",
+            "feature": [
+                "4x4:4 MU-MIMO 802.11ax ",
+                "3.0 Gbps* dual-radio aggregate frame rate",
+                "24x7 real-time WIDS/WIPS and spectrum analytics via dedicated third radio",
+                "Integrated Bluetooth Low Energy Beacon",
+                "Integrated scanning radio",
+                "Enhanced transmit power and receive sensitivity",
+                "Integrated enterprise security and guest access",
+                "Application-aware traffic shaping",
+                "Optimized for voice and video",
+                "Self-configuring, plug-and-play deployment",
+                "Sleek design blends into office environments",
+                "Full-time Wi-Fi location tracking via dedicated 3rd radio"
+            ]
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        },
+        {
+            "family": "MR",
+            "title": "",
+            "description": "",
+            "overview": "",
+            "feature": []
+        }
+    ]
+]
