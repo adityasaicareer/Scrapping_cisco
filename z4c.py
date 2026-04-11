@@ -44,4 +44,12 @@ for i in features2:
 tempdir['features']=features
 print(tempdir)
 
-    
+
+import json
+
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'r') as f:
+    data=json.load(f)
+
+data.append(tempdir)
+with open("/Users/chowdaryadithyasai/scrapping/output.json",'w') as f:
+    json.dump(data,f,indent=4)

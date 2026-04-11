@@ -1145,5 +1145,48 @@
             "overview": "",
             "feature": []
         }
+    ],
+    [
+        {
+            "family": "MG",
+            "link": "https://documentation.meraki.com/SASE_and_SD-WAN/Cellular/Product_Information/Overviews_and_Datasheets/MG21%2F%2F21E_Datasheet",
+            "title": "MG21/21E Technical Specifications",
+            "overview": " ",
+            "features": [
+                "Antenna placement where cellular coverage is best ",
+                "Primary WAN",
+                "Secondary WAN for Failover",
+                "Secondary WAN for SD-WAN",
+                "High Availability Uplink"
+            ]
+        },
+        {
+            "family": "MG",
+            "link": "https://documentation.meraki.com/SASE_and_SD-WAN/Cellular/Product_Information/Overviews_and_Datasheets/MG41%2F%2F41E_Datasheet",
+            "title": "MG41/41E Technical Specifications",
+            "overview": "Connectivity is critical for any organization that depends on reliable internet access in order to function. Wireless WAN connectivity options, such as cellular networks, serve as a reliable backup internet uplink in the event of a primary uplink failure. ",
+            "features": []
+        },
+        {
+            "family": "MG",
+            "link": "https://documentation.meraki.com/SASE_and_SD-WAN/Cellular/Product_Information/Overviews_and_Datasheets/MG51%2F%2F51E_Technical_Specifications",
+            "title": "MG51/51E Technical Specifications",
+            "overview": "The MG51 cellular gateway simplifies the path to wireless WAN connectivity over 5G and makes cellular a viable primary uplink option for many networks bypassing the necessity for wired circuits. The MG51 acts as a gateway to the internet cellular networks by converting 5G and LTE signal from a cellular provider to an Ethernet handoff, which can be used as an internet uplink for a variety of use-cases. ",
+            "features": [
+                "Highlights",
+                "Highlights",
+                "Management",
+                "Management",
+                "Remote Diagnostics",
+                "Remote Diagnostics"
+            ]
+        },
+        {
+            "family": "MG",
+            "link": "https://documentation.meraki.com/SASE_and_SD-WAN/Cellular/Product_Information/Overviews_and_Datasheets/MG52%2F%2F52E_Technical_Specifications",
+            "title": "MG52/52E Technical Specifications",
+            "overview": "MG52 cellular gateway is a 5G StandAlone (SA)/ Non-StandAlone (NSA) device which enables the delivery of high-speed internet access with low latency and increased capacity.  The use of standalone 5G allows for advanced features like network slicing, which allows the creation of virtualized, dedicated slices of the network tailored for specific applications or services.",
+            "features": []
+        }
     ]
 ]
